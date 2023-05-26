@@ -177,4 +177,3 @@ public class Pet {
         System.out.println(response.getBody().asString);
     }
 }
-
